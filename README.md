@@ -1,2 +1,2 @@
 # Random-Quote
-Random-Qoute using HTML,CSS, and js.
+Random-Quote using HTML,CSS, and js.
